@@ -1,0 +1,6 @@
+en-chunker.bin
+en-ner-person.bin
+en-parser-chunking.bin
+en-pos-maxent.bin
+en-sent.bin
+en-token.bin
